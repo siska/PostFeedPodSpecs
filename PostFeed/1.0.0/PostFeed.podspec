@@ -26,7 +26,7 @@ s.source = { :git => "https://github.com/siska/PostFeed.git",
 # 7 - no additional cocoapods
 
 # 8
-# s.source_files = "PostFeed/**/*.{swift}"
+s.source_files = "PostFeed/**/*.{swift}"
 
 # 9
 s.resources = "PostFeed/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
